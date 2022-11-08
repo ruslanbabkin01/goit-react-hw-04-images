@@ -2,7 +2,7 @@
   "name": "goit-react-hw-03-image-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ruslanbabkin01.github.io/goit-react-hw-03-image-finder/",
+  "homepage": "https://ruslanbabkin01.github.io/goit-react-hw-04-images/",
   "dependencies": {
     "@emotion/css": "^11.10.0",
     "@emotion/react": "^11.10.4",
